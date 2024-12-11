@@ -570,8 +570,8 @@ footer .social a:hover {
 }
 
 /*========= MEDIA QUERIES =========*/
-/* extra large devices: 1100 > */
-@media (min-width: 1100px) {
+/* extra large devices: 1300 > */
+@media (min-width: 1300px) {
   /* reusable classes */
   .container {
     max-width: 1120px;
