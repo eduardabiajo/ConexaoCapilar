@@ -57,6 +57,10 @@
 
 
   /*===  BASE ============================ */
+  .access-button {
+    border-radius: 50px;
+}
+
 html {
     scroll-behavior: smooth;
   }
@@ -570,8 +574,8 @@ footer .social a:hover {
 }
 
 /*========= MEDIA QUERIES =========*/
-/* extra large devices: 1300 > */
-@media (min-width: 1300px) {
+/* extra large devices: 1200 > */
+@media (min-width: 1200px) {
   /* reusable classes */
   .container {
     max-width: 1120px;
